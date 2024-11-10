@@ -13,7 +13,7 @@ Carta Virtual
 <br>
 
 <p align="center">
-  <img alt="Carta Virtual" src="carta1.jpeg" width="100%">
+  <img alt="Carta Virtual" src="carta2.jpeg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
