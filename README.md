@@ -1,7 +1,7 @@
-<h1 align="center"> Player </h1>
+<h1 align="center"> Carta </h1>
 
 <p align="center">
-Carta
+Carta Virtual
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@ Carta
 <br>
 
 <p align="center">
-  <img alt="Carta Digital" src=".github/Carta.PNG" width="100%">
+  <img alt="Carta Virtual" src=".github/carta1.JPEG" width="100%">
 </p>
 
 ## 🚀 Tecnologias
