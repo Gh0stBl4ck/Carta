@@ -13,7 +13,7 @@ Carta Virtual
 <br>
 
 <p align="center">
-  <img alt="Carta Virtual" src=".github/carta1.JPEG" width="100%">
+  <img alt="Carta Virtual" src=".github/Carta/carta1.JPEG" width="100%">
 </p>
 
 ## 🚀 Tecnologias
